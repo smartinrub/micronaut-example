@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.sergiomartinrubio
+---
+testFramework: junit
+sourceLanguage: java
